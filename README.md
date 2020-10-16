@@ -1,5 +1,5 @@
 # Project Title
-- Homework Week 1 - Horiseon Updated SEO and HTML semantics
+Homework Week 1 - Horiseon Updated SEO and HTML semantics
 
 ## Description 
 Marketing agency, Horiseon, reached out to fix the codebase and add search engine optimization attributes to increase productivity and visibility of their website/business.
@@ -8,7 +8,9 @@ Marketing agency, Horiseon, reached out to fix the codebase and add search engin
 
 ## Installation
 
-Languages used: HTML5 and CSS
+Languages used: 
+-HTML5
+-CSS
 
 
 ## Usage 
@@ -18,12 +20,12 @@ Languages used: HTML5 and CSS
 
 ## Credits
 
-GitHub
-UT Bootcamp Courses
-Luis Rodriguez
+-GitHub
+-UT Bootcamp Courses
+-Luis Rodriguez
 
 
 ## License
 
-No  license required
+-No  license required
 
