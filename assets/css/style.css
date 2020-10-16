@@ -103,7 +103,7 @@ p {
 }
 
 /******* MAIN  CONTENT ******/
-.search-engine-optimization {
+.section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -131,7 +131,7 @@ p {
 }
 
 /***** MAIN   IMAGES *****/
-.search-engine-optimization img {
+.section img {
   max-height: 200px;
 }
 
@@ -144,7 +144,7 @@ p {
 }
 
 /****** MAIN   HEADERS ********/
-.search-engine-optimization h2 {
+.section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
