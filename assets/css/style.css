@@ -7,6 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
+
 /****** HEADER ******/
 .header {
   padding: 20px;
@@ -24,6 +25,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
+
 /******* NAV BAR ********/
 .header nav {
   padding-top: 15px;
@@ -47,6 +49,7 @@ a {
 p {
   font-size: 16px;
 }
+
 /****** HERO CONTENT ******/
 .hero {
   height: 800px;
@@ -72,6 +75,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
 /********* BENEFITS CONTENT******/
 .benefits {
   margin-right: 20px;
@@ -95,7 +99,7 @@ p {
   text-align: center;
 }
 
-/****** BENEFIT IMAGES ********/
+/****** BENEFITS IMAGES ********/
 .benefit img {
   display: block;
   margin: 10px auto;
